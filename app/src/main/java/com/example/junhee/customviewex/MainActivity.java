@@ -14,6 +14,8 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         init();
         junHeeTv.setText("커스텀 텍스트뷰입니다.");
+
+
     }
 
     private void init() {
